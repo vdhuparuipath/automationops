@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Administration - Automation Cloud",
+  "Type": "Screen",
+  "Id": "E0OmXDtiwk-0kiIMmEdE4Q",
+  "Reference": "ObvtgIbeIUyJ9_g2we3_9g/E0OmXDtiwk-0kiIMmEdE4Q",
+  "ParentRef": "ObvtgIbeIUyJ9_g2we3_9g/LVw72WSvkketeoWcw9hy7w",
+  "Created": "2025-09-08T22:24:33.9478036Z",
+  "Updated": "2025-09-08T22:24:33.9478036Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Administration - Automation Cloud",
+  "Type": "App",
+  "Id": "ICcFFa2QlUeuT9HMgQm_jg",
+  "Reference": "ObvtgIbeIUyJ9_g2we3_9g/ICcFFa2QlUeuT9HMgQm_jg",
+  "Created": "2025-09-08T22:24:33.6004525Z",
+  "Updated": "2025-09-08T22:24:33.6004525Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
